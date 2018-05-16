@@ -1,7 +1,9 @@
-package com.abt.animation;
+package com.abt.animation.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.abt.animation.R;
 
 public class MainActivity extends AppCompatActivity {
 
