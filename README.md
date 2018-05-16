@@ -8,4 +8,5 @@
 
 ## 参考文献
 1、[Android动画分类](https://www.jianshu.com/p/1ab1b80099a9)    
-2、
+2、[AndroidAnimationExercise](https://github.com/REBOOTERS/AndroidAnimationExercise)     
+
