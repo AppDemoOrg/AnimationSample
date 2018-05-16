@@ -15,7 +15,6 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.abt.animation.R;
-import com.abt.animation.activity.BaseActivity;
 
 /**
  * Created by rookie on 2016/8/8.
