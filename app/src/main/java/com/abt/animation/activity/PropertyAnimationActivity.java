@@ -1,4 +1,4 @@
-package com.abt.animation.property;
+package com.abt.animation.activity;
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;
