@@ -18,10 +18,10 @@ public class FrameAnimationActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_frame_animation);
-        mFrame1 = (ImageView) findViewById(R.id.activity_frame_frame1);
-        mFrame2 = (ImageView) findViewById(R.id.activity_frame_frame2);
-        mFrame3 = (ImageView) findViewById(R.id.activity_frame_frame3);
-        mFrame4 = (ImageView) findViewById(R.id.activity_frame_frame4);
+        mFrame1 = findViewById(R.id.activity_frame_frame1);
+        mFrame2 = findViewById(R.id.activity_frame_frame2);
+        mFrame3 = findViewById(R.id.activity_frame_frame3);
+        mFrame4 = findViewById(R.id.activity_frame_frame4);
         startFrameAnimate();
     }
 
