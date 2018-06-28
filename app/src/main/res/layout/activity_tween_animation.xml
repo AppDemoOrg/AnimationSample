@@ -256,7 +256,7 @@
                 android:layout_gravity="center"
                 android:layout_margin="20dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/tween_activty_icon" />
+                android:src="@drawable/tween_activity_icon" />
 
         </FrameLayout>
 

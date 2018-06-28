@@ -23,12 +23,15 @@
         </activity>
 
         <activity android:name=".activity.PhysicsAnimationActivity">
+
+        </activity>
+
+        <activity android:name=".activity.FollowingActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
     </application>
 
 </manifest>
